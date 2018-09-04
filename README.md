@@ -1,2 +1,2 @@
-# MintMap
-MintMap,Let's Go!
+# MMall
+## MMall Project
